@@ -1,5 +1,5 @@
-# pos_tagger
-A repository containing different implementations of POS and NER tagging that I wrote during my studies including
+# POS/NER Tagger Code (Classical and Deep Learning)
+A repository containing different implementations of POS and NER tagging that I wrote during my studies including:
 
 - Greedy MLE
 - Hidden Markov Model
